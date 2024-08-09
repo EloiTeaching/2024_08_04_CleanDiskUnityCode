@@ -1,0 +1,1 @@
+The only purpuse of this package is to store data a file on Android and push them to a computer to be sync on git.
