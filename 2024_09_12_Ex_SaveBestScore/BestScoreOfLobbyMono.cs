@@ -114,19 +114,4 @@ public class BestScoreOfLobbyMono : MonoBehaviour
         float trimSeconds= (float)second / 100f;
         m_uiCurrentScore.text = trimSeconds.ToString();
     }
-
-
-
-
-    // Start is called before the first frame update
-    //void Start()
-    //{
-
-    //    m_whenStart = DateTime.Now;
-    //    m_whenStop = DateTime.Now;
-    //    float secondsPast = (float)(m_whenStop - m_whenStart).TotalSeconds;
-    //}
-    //public DateTime m_whenStart;
-    //public DateTime m_whenStop;
-
 }
